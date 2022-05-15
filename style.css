@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: aqua;
+    color: white;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+footer {
+    color: white;
+}
+
+footer p {
+    background-color: royalblue;
+}
+
+nav a {
+    background-color: aqua;
+    text-decoration: blue;
+    border: 1px solid royalblue;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+nav {
+    margin: 20px;
+}
